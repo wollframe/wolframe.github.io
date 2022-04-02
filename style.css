@@ -1,0 +1,16 @@
+.ser {
+    height: 10em;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.b {
+    /* margin-right: */
+}
+
+.block {
+    margin-top: 50px;
+    margin-left: 500px;
+
+}
